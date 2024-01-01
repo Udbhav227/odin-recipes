@@ -1,0 +1,26 @@
+body {
+    background: #582335;
+    font-family: 'Alegreya', 'Times New Roman', Georgia;
+}
+
+.page-title {
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family: 'Alegreya', 'Times New Roman', Georgia;
+    font-style: italic;
+}
+
+.cover-image {
+    margin: 16px auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+a:link {
+    color: #CA1F48;
+}
+
+a:visited {
+    color: #E6654C;
+}
