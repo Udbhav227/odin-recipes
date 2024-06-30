@@ -1,2 +1,3 @@
 # odin-recipes
-Hello all! Right now I am following the Odin's path to learn web development. This is my first project of the course, till now i have learned some basic linux comands, git basics and HTML (Boilerplate, paragraph, body, img etc). I dont know what this is about yet but from the name we can guess it is something related to recipies. Lets move forward and see whats inside for us!
+Hello all! Right now i am learning web development. This is my first web development project, till now i have learned some basic linux comands, git basics and HTML (Boilerplate, paragraph, link, list, body, img etc). 
+https://udbhav227.github.io/odin-recipes/
