@@ -22,11 +22,6 @@ This project features a collection of recipes presented using basic HTML element
 - **Navigation Links**: Easily navigate between different recipes.
 - **Clean Layout**: Simple and clean design to focus on content.
 
-## 📸 Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-
 ## 🛠️ Technologies Used
 
 - HTML5 (Basic)
